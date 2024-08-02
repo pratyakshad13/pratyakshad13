@@ -4,11 +4,13 @@ Welcome to my GitHub profile! I’m a B.Tech student in Computer Science and Eng
 
 ## 🔥 Streak Stats
 
-![Pratyaksha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratyakshad13&theme=radical&hide_border=true)
-
-## 📈 GitHub Stats
-
-![Pratyaksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratyakshad13&show_icons=true&count_private=true&hide_border=true&theme=radical)
+<p align="center">
+<a href="https://github.com/pratyakshad13">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyakshad13&theme=algolia&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratyakshad13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratyakshad13&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ## 🏆 Achievements
 
